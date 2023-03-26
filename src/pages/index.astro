@@ -1,71 +1,37 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 const posts = await getCollection('blog');
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<Header></Header>
-		<div class="content-container">
-			{
-				posts.map((post) => {
-					 return (
-							<a class="card" href={`/${post.slug}`}>
-								<img src={post.data.share.image} class="image" />
-								<div class="text">
-									<h1>{post.data.title}</h1>
-									<h2>{post.data.artist}</h2>					
-								</div>
-							</a>												
-					  );
-				})
-			}
-		</div>
-		<div class="footer-container"></div>		
-	</body>
-
-	<style>
-		html {
-			height: 100%;			
+<BaseLayout>
+	<div class="content-container">
+		{
+			posts.map((post) => {
+				 return (
+						<a class="card" href={`/${post.slug}`}>
+							<img src={post.data.share.image} class="image" />
+							<div class="text">
+								<h1>{post.data.title}</h1>
+								<h2>{post.data.artist}</h2>					
+							</div>
+						</a>												
+				  );
+			})
 		}
-		
-		body{
-			margin: 0px;
-			padding: 0px;
-			background-image: linear-gradient( 135deg, #FEB692 10%, #EA5455 100%);
-			height: 100%;
-		}
+	</div>
+</BaseLayout>
 
-		.header-container {			
-			vertical-align: middle;
-			padding-left: 1.5rem;
-			padding-top: 1rem;
-			padding-bottom: 1rem;
-			font-weight: 500;
-			font-size: 32pt;
-			color: rgb(255, 255, 255);
-		}
-
+<style>
 		.content-container {
-			padding-top: 2rem;
-			padding-bottom: 2rem;			
+			padding: 2rem;		
 			display: flex;
 			flex-direction: column;
 			gap: 20px;
 			max-width: 900px;	
 			margin: auto;		
-		}
-
-		.footer-container {
-			
 		}
 
 		.card {			
@@ -113,5 +79,4 @@ const posts = await getCollection('blog');
 			font-weight: 500;
 			color: black;
 		}
-	</style>
-</html>
+</style>
