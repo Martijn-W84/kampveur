@@ -9,6 +9,8 @@ image: /autovleegtuug.webp
 
 ---
 
+### [Intro]
+
 #### D   G   C   Am
 
 #### D   G   C   Am
@@ -16,7 +18,7 @@ image: /autovleegtuug.webp
 #### D G   C
  
  
-[Verse]
+### [Couplet]
 
 #### D     G        C        D
 
@@ -43,7 +45,7 @@ Meschien velt ut mej
 As ik droem van enne boem in un zomerse wei
  
  
-[Chorus]
+### [Refrein]
 
 #### D    G         C           Am
 
@@ -59,7 +61,7 @@ Wat is de wereld toch groet
  
 #### D  G  C
  
-[Verse]
+### [Couplet]
 
 #### D           G        C        D
 
@@ -93,7 +95,7 @@ En zes oor later wiegt ut water
 
 os tevreje in sloap
  
-[Chorus]
+### [Refrein]
 
 #### D    G         C           Am   
 Auto, vleegtuug de trein de boet 
@@ -125,9 +127,9 @@ Auto, vleegtuug
 #### D  G   C
 
  
-[Chorus]
+### [Refrein]
 
-#### D    G         C           Am   
+#### D    G         C           Am
 Auto, vleegtuug de trein de boet
 
 #### D    G         C           Am   
@@ -138,7 +140,6 @@ Auto, vleegtuug de trein de boet
 
 #### D    G         C           Am   
 Auto, vleegtuug de trein de boet
-
 
 #### D    G         C           Am   
 Auto, vleegtuug de trein de boet 
@@ -153,7 +154,7 @@ Auto, vleegtuug de trein de boet
 Auto, vleegtuug de trein de boet
 
  
-[Outro]
+### [Outro]
 
 #### D         G           C
 Wat is de wereld toch groet 
