@@ -4,21 +4,10 @@ draft: true
 date: 2023-01-14
 title: De neus umhoeg
 artist: Rowwen Hèze
+youtube: https://www.youtube.com/embed/pMNfK3D-Cmc
+image: /deneusumhoeg.webp
 
-category: food
-tags:
-- gouda
-- cheddar
-- brie
-
-share:
-  image: /deneusumhoeg.webp
-  title: One Mind-Blowing Life Hack That Will Change The Way You Eat
-  description: >
-    Forget about keto, Atkins, Whole 30, and every other diet — this revolutionary breakthrough in how we eat will forever change your relationship with food.
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pMNfK3D-Cmc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 (intro)
 
@@ -40,7 +29,7 @@ Veur altied saame&emsp;&emsp;de kaarte versteurd,
 
 #### Am	G7		C
 
-dan zujje ze leave&emsp;&emsp;toen is het gebeurd.
+lang zujje ze leave&emsp;&emsp;toen is het gebeurd.
 
 
 

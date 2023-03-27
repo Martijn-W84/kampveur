@@ -7,16 +7,9 @@ export const collections = {
       date: z.date().transform((str) => new Date(str)),
       title: z.string(),
       artist: z.string(),
-      slug2: z.string().optional(),
-      category: z.enum(['food', 'wisdom']),
-      tags: z.array(z.string().optional()),
-      share: z
-        .object({
-          image: z.string().optional(),
-          title: z.string(),
-          description: z.string(),
-        })
-        .strict(),
+      youtube: z.string(),
+      image: z.string().optional(),
+      slug2: z.string().optional(),      
     }),
   }),
 };

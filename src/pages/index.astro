@@ -12,7 +12,7 @@ const posts = await getCollection('blog');
 			posts.map((post) => {
 				 return (
 						<a class="card" href={`/${post.slug}`}>
-							<img src={post.data.share.image} class="image" />
+							<img src={post.data.image} class="image" />
 							<div class="text">
 								<h1>{post.data.title}</h1>
 								<h2>{post.data.artist}</h2>					

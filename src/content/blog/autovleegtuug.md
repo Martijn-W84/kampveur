@@ -4,21 +4,10 @@ draft: true
 date: 2023-01-14
 title: Auto, vleegtuug
 artist: Rowwen Hèze
+youtube: "https://www.youtube.com/embed/GhSxq7iV5jQ"
+image: /autovleegtuug.webp
 
-category: food
-tags:
-- gouda
-- cheddar
-- brie
-
-share:
-  image: /autovleegtuug.webp
-  title: One Mind-Blowing Life Hack That Will Change The Way You Eat
-  description: >
-    Forget about keto, Atkins, Whole 30, and every other diet — this revolutionary breakthrough in how we eat will forever change your relationship with food.
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GhSxq7iV5jQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### D   G   C   Am
 
@@ -31,7 +20,7 @@ share:
 
 #### D     G        C        D
 
-Onder mej geat land veurbeej
+Onder mej giet land veurbeej
 
 #### G            C        D     G
 
@@ -39,11 +28,11 @@ vleegtuug werkt zich umhoeg, de wolke door
 
 #### C     D                      G             C
 
-Nog twelf our en ut zonlicht dat brand in mien oeg
+Nog twelf oor en ut zonlicht dat brand in mien oeg
 
 #### D      G    C       D
 
-Oh ich hoop dat ich sloap 
+Oh ik hoop dat ik sloap 
 
 #### G             C
 
@@ -51,7 +40,7 @@ Meschien velt ut mej
 
 #### D       G         C    D          G       C
 
-Als ich droom van enne boom in un zomerse wei
+As ik droem van enne boem in un zomerse wei
  
  
 [Chorus]
@@ -74,7 +63,7 @@ Wat is de wereld toch groet
 
 #### D           G        C        D
 
-De boet dej vaart en op de kaart
+De boet di vaart en op de kaart
 
 #### D                G        C
 
@@ -90,7 +79,7 @@ Hoelaat goan de kroege heer dicht
 
 #### D        G     C       D
 
-Want ich wiejt hoe dat giejt
+Want ik wiet hoe dat giet
 
 #### D             G          C
 
@@ -113,7 +102,7 @@ Auto, vleegtuug de trein de boet
 Auto, vleegtuug de trein de boet
  
 #### D         G           C
-Wat is de wereld toch groet 
+Wat is de werreld toch groet 
  
 #### D  G  C
 
