@@ -3,7 +3,8 @@ import {SITE_TITLE} from '../consts';
 ---
 
 <header>
-   <a href="/" class="site_title">{SITE_TITLE}</a>
+    <img src="/logo.png" class="logo" />
+    <a href="/" class="site_title">{SITE_TITLE}</a>
 </header>
 
 <style>
@@ -13,12 +14,20 @@ import {SITE_TITLE} from '../consts';
         background-color: rgba(123, 8, 88, 0.064);
     }
 
+    .logo {
+        height: 2.5rem;
+        padding-left: 1.5rem;
+        margin-top: auto;
+        margin-bottom: auto; 
+        vertical-align: middle;
+    }
+
     .site_title {
         text-decoration: none;
         color: rgb(123, 8, 89);
         text-decoration: none;
         vertical-align: middle;
-        padding-left: 1.5rem;
+        padding-left: 1rem;
         font-weight: 800;
         font-size: 32pt;
     }   
