@@ -6,7 +6,7 @@ title: De neus umhoeg
 artist: Rowwen Hèze
 youtube: https://www.youtube.com/embed/pMNfK3D-Cmc
 image: /deneusumhoeg.webp
-
+image_alt: "de neus umhoeg"
 ---
 
 ### [Intro]

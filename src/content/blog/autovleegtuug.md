@@ -6,6 +6,7 @@ title: Auto, vleegtuug
 artist: Rowwen Hèze
 youtube: "https://www.youtube.com/embed/GhSxq7iV5jQ"
 image: /autovleegtuug.webp
+image_alt: "auto vleegtuug"
 
 ---
 

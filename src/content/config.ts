@@ -9,6 +9,7 @@ export const collections = {
       artist: z.string(),
       youtube: z.string(),
       image: z.string().optional(),
+      image_alt: z.string().optional(),
       slug2: z.string().optional(),      
     }),
   }),
