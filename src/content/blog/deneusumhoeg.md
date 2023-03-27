@@ -9,80 +9,78 @@ image: /deneusumhoeg.webp
 
 ---
 
-(intro)
+### [Intro]
 
-#### Am&emsp;	G7&emsp;	C	(2x)
+#### Am&nbsp;&nbsp;G&nbsp;&nbsp;C	(2x)
 
-(chorus)
+### [Couplet]
 
-#### F&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;C&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;C
+#### F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-Hoeg in de wolke&emsp;&emsp;of dicht beej de grond,
+Hoeg in de wolke&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of dicht beej de grond,
 
-#### Am			   C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-noeits huure klaage&emsp;&emsp;waas altied gezond.
+noeits huure klaage&nbsp;&nbsp;waas altied gezond.
 
-#### F		C	       F		C
+#### F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-Veur altied saame&emsp;&emsp;de kaarte versteurd,
+Veur altied saame&nbsp;&nbsp;&nbsp;&nbsp;de kaarte versteurd,
 
-#### Am	G7		C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-lang zujje ze leave&emsp;&emsp;toen is het gebeurd.
+lang zujje ze leave&nbsp;&nbsp;toen is het gebeurd.
 
+### [Refrein]
 
-
-#### Am		C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
 Weej goan allemaol, oh ,oh, oh
 
-#### Am		C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
 weej goan allemoal, oh, oh, oh
 
-#### Am		C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
 weej goan allemoal, oh, oh, oh
 
-#### G7              C
+#### &nbsp;&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
 allemoal met de neus umhoeg
 
+### [Couplet]
 
-(chorus 2)
+#### F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-#### F	    C			          F	C
+Groete parade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;latste ier-betoen,
 
-Groete parade		latste ier-betoen,
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-#### Am			       C
+doezende minse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of hiel gewoen.
 
-doezende minse		of hiel gewoen.
+#### &nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-#### F		C		       F		       C
+Op zoaterdaag merge&nbsp;&nbsp;&nbsp;&nbsp;haj heej nog gewerkt,
 
-Op zoaterdaag merge	haj heej nog gewerkt,
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
-#### Am	G7				C
+'t leave ging verder&nbsp;&nbsp;'t haj niemand gemerkt.
 
-'t leave ging verder		't haj niemand gemerkt.
+### [Refrein]
 
+### [Solo]		
 
-#### (refrein)
+#### F&nbsp;&nbsp;C&nbsp;&nbsp;F&nbsp;&nbsp;C&nbsp;&nbsp;Am&nbsp;&nbsp;C
 
+### [Couplet]
 
-#### (solo)		F	C	F	C	Am	C
+#### F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C
 
+Neet mier an denke&nbsp;&nbsp;&nbsp;&nbsp;'t het toch gen nut,
 
-#### F		C		   F		C
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Am&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C	
 
-Neet mier an denke 		't het toch gen nut,
+want vanaaf 't begin&nbsp;&nbsp;&nbsp;zien ow kaarte geschud
 
-#### Am	G7			       C	
-
-want vanaaf 't begin		zien ow kaarte geschud
-
-
-
-(refrein) ----- vv ------
+### [Refrein]
