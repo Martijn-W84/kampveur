@@ -1,9 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { compareStrings } from "../functions/functions.js";
 const posts = await getCollection('blog', ({ data }) => {
   return data.draft !== true;
 });
+posts.sort(function(a, b) {
+        return compareStrings(a.data.title, b.data.title);
+    })
 ---
 
 <BaseLayout>
@@ -55,7 +59,8 @@ const posts = await getCollection('blog', ({ data }) => {
 		}
 
 		.image {			
-			max-height: 150px;
+			height: 150px;
+			width: 150px;
 			min-width: 150px;
 			object-fit: contain;			
 		}
