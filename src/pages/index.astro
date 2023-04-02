@@ -1,7 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-const posts = await getCollection('blog');
+const posts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
 ---
 
 <BaseLayout>
